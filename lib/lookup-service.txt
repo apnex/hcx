@@ -1,0 +1,7 @@
+SSO identity service
+https://vcenter.lab:443/lookupservice/sdk
+
+- Make sure to generate new Enterprise KEY for HCX
+- Make sure to set NTP on branch - misaligned time will break license activation
+- HCX Only shows up in Web Client - not HTML client
+

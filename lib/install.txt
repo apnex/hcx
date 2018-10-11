@@ -1,0 +1,16 @@
+# license key
+
+# vcenter
+# sso
+
+SSO identity service
+https://vcenter.lab:443/lookupservice/sdk
+
+- Make sure to generate new Enterprise KEY for HCX
+- Make sure to set NTP on branch - misaligned time will break license activation
+- HCX Only shows up in Web Client - not HTML client
+
+# for remote site pairing
+fqdn: hcx.sddc-13-236-48-130.vmwarevmc.com
+username: cloudadmin@vmc.local
+password: <password>

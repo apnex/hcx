@@ -1,0 +1,13 @@
+{
+	"dns": "8.8.8.8",
+	"domain": "lab",
+	"endpoints": [
+		{
+			"type": "hcx",
+			"hostname": "hcxm01.lab",
+			"username": "administrator@vsphere.local",
+			"password": "VMware1!",
+			"online": "true"
+		}
+	]
+}

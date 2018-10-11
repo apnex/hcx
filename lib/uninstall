@@ -1,0 +1,11 @@
+vcenter.lab/mob
+# work out curl calls to remove
+
+remove:
+com.vmware.hybridity
+com.vmware.hybridity.dr
+com.vmware.hybridity.hcsp-dashboard
+com.vmware.hybridity.publisher
+com.vmware.hybridity.troubleshooting
+com.vmware.hybridity.fleet-deployment-ui
+com.vmware.hybridity.auditlog-ui
